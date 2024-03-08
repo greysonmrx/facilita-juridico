@@ -1,6 +1,6 @@
 # Video explicativo
 
-https://www.youtube.com/watch?v=zht3KVx70oA
+- Link do vídeo: https://www.youtube.com/watch?v=zht3KVx70oA
 
 # Versões
 
